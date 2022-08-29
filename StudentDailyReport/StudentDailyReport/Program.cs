@@ -19,7 +19,7 @@ namespace StudentDailyReport
             int yourPage = Convert.ToInt32(Console.ReadLine());// will store as an int
        
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\".");// This displays the string in the parenthesis
-            bool yourHelp = Convert.ToBoolean(Console.ReadLine());// will store a string
+            bool yourHelp = Convert.ToBoolean(Console.ReadLine());// will store a bool
 
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");// This displays the string in the parenthesis
             string yourExperience = Console.ReadLine();// will store a string.
