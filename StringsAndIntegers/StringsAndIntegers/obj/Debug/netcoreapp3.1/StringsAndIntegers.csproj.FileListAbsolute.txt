@@ -1,0 +1,14 @@
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.exe
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.deps.json
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.json
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.runtimeconfig.dev.json
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.dll
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\bin\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.AssemblyReference.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfoInputs.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.AssemblyInfo.cs
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.csproj.CoreCompileInputs.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.dll
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.pdb
+C:\Users\19718\Desktop\Basic_C#_Programs\StringsAndIntegers\StringsAndIntegers\obj\Debug\netcoreapp3.1\StringsAndIntegers.genruntimeconfig.cache
