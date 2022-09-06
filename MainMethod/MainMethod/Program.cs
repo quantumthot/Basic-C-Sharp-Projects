@@ -18,17 +18,17 @@ namespace MainMethod
             int userInput = Convert.ToInt32(Console.ReadLine());
 
 
-            int addition = (int)mymath.Add(userInput); // Calls in the Add method
+            int addition = mymath.Add(userInput); // Calls in the Add method
             Console.WriteLine("Your number added by itself equals: " + addition);
 
 
             // Part 2 ///////////////////////////
             Console.WriteLine("User, please enter a decimal you want to perform a math function with..");
-            string userInput1 = (Console.ReadLine()); 
-            double val = Convert.ToDouble(userInput1); // Converting to decimal
+
+            decimal val = Convert.ToDecimal(Console.ReadLine()); // Converting to decimal
 
 
-            float squared = (float)mymath.Add(val); // plugs in the squared method
+            decimal squared = mymath.Add(val); // plugs in the squared method
             Console.WriteLine("Your number multiplied by itself equals: " + squared);
 
             // Part 3 ///////////////////////////
@@ -37,7 +37,7 @@ namespace MainMethod
 
             //string length = userInput2; // using string length as number for division
 
-            string division = mymath.Add(userInput2) as string; // Calls in the squared method
+            int division = mymath.Add(userInput2); // Calls in the squared method
 
             Console.WriteLine("Your word divided by itself equals: " + division);
 

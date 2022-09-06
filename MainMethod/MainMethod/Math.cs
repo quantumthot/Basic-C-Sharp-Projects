@@ -8,45 +8,25 @@ namespace MainMethod
 {
     public class Math
     {
-        //public int Add(int userInput, double val, int length) // Add method will take in inputNumber from user
-        //{
-
-        //    int addition = userInput + userInput;
-        //    return addition;
-
-        //    float squared = (float)(val * val);
-        //    return (int)squared;
-
-
-        //    int division = length / length;
-        //        return division;
-        //}
-
-
-        public int Add(int userInput) // Add method will take in inputNumber from user
+        public int Add(int userInput) 
         {
-
             int addition = userInput + userInput;
             return addition;
         }
 
-        public float Add(double val)
+        public int Add(decimal val)
         {
-            float squared = (float)(val * val);
-            return squared;
+            decimal squared = (val * val);
+            int numba = Convert.ToInt32(squared);
+            return numba;
         }
 
 
-        public string Add(string userInput2)
+        public int Add(string userInput2)
         {
-            int letters = userInput2.Length;
-            int numbs = letters / letters;
-            string val = Convert.ToString(numbs);
-
-
-
-
-            return val;
+            int numbs2 = userInput2.Length;
+            int numbs3 = numbs2 / numbs2;
+            return numbs3;
         }
     }
 }
