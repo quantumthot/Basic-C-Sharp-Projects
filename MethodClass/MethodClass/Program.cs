@@ -7,7 +7,9 @@ namespace MethodClass
         static void Main(string[] args)
         {
             Math add = new Math(); // Instantiating class
-            add.Sum(a: 6, b: 4);
+
+            add.Sum(6 , 4); //calls the method normally
+            add.Sum(a: 6, b: 4); //calls the method specifying the parameters by name
         }
     };
 
