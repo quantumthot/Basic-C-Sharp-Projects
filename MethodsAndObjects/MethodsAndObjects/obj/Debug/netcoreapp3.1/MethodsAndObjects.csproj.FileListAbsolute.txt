@@ -1,0 +1,14 @@
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.exe
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.deps.json
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.json
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.runtimeconfig.dev.json
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\bin\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfoInputs.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.AssemblyInfo.cs
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.dll
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.pdb
+C:\Users\19718\Desktop\Basic_C#_Programs\MethodsAndObjects\MethodsAndObjects\obj\Debug\netcoreapp3.1\MethodsAndObjects.genruntimeconfig.cache
