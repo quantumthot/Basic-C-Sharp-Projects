@@ -1,0 +1,14 @@
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.exe
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.deps.json
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.json
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.runtimeconfig.dev.json
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\bin\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfoInputs.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.AssemblyInfo.cs
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.dll
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.pdb
+C:\Users\19718\Desktop\Basic_C#_Programs\OperatorsSubmission\OperatorsSubmission\obj\Debug\netcoreapp3.1\OperatorsSubmission.genruntimeconfig.cache
