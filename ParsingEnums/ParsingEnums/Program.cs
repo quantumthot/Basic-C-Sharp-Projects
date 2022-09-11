@@ -15,7 +15,7 @@ namespace ParsingEnums
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Please enter an actual numerical day of the week.", ex.Message);
+                Console.WriteLine("Please enter a day of the week.", ex.Message);
                 Console.ReadLine();
             }
 
