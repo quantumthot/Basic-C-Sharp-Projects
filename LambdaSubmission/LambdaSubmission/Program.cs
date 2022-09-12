@@ -35,11 +35,11 @@ namespace LambdaSubmission
             employee.Add(employee10);
 
             //  iterates all entries in Employee list //
-            foreach (var emp in employee)
-            {
-                Console.WriteLine("Id: {0}, First Name: {1}, Last Name: {2}", emp.id, emp.firstName, emp.lastName);
-            }
-            Console.ReadLine();
+            //foreach (var emp in employee)
+            //{
+            //    Console.WriteLine("Id: {0}, First Name: {1}, Last Name: {2}", emp.id, emp.firstName, emp.lastName);
+            //}
+            //Console.ReadLine();
 
             var joe = new List<Employee>(); // new list called joe
 
@@ -51,27 +51,43 @@ namespace LambdaSubmission
             {
                 joe.Add(joes);             // adding Joes to new list joe
             }
-          
+            Console.WriteLine("Here's a new list called joeList, that has Joes.");
+            Console.ReadLine();
+
             foreach (var joeList in joe)
             {
-                Console.WriteLine("Here's a new list called joeList, that has Joes. Id: {0}, First Name: {1}, Last Name: {2}", joeList.id, joeList.firstName, joeList.lastName);
+                Console.WriteLine("Id: {0}, First Name: {1}, Last Name: {2}", joeList.id, joeList.firstName, joeList.lastName);
             }
             Console.ReadLine();
 
-            var employeeOver5 = new List<Employee>(); // New list
+            List<Employee> anotherJoe = employee.Where(e => e.firstName == "Joe").ToList(); //Making new list using lambda 
+            Console.WriteLine("Here's a new list called anotherJoeList, that has Joes.");
+            Console.ReadLine();
 
-            employee.ForEach(x =>     // for every var that has a id over 5 will be added to employeeOver5 list.
+            foreach (var anotherJoeList in anotherJoe)
             {
-                if (x.id > 5)
-                {
-                    employeeOver5.Add(x);
-                }
-            });
-            
-            foreach (var over5 in employeeOver5)
-            {
-                Console.WriteLine("Here's a new list called over5, it contains a people with an ID over 5. Id: {0}, First Name: {1}, Last Name: {2}", over5.id, over5.firstName, over5.lastName);
+                Console.WriteLine("Id: {0}, First Name: {1}, Last Name: {2}", anotherJoeList.id, anotherJoeList.firstName, anotherJoeList.lastName);
             }
+            Console.ReadLine();
+
+            List<Employee> employeeOver5 = employee.Where(e => e.id > 5).ToList(); //Making new list using lambda 
+            Console.WriteLine("Here's a new list called employeeOver5, that has employees with an ID over 5.");
+            Console.ReadLine();
+
+            foreach (var emp in employeeOver5)
+            {
+                Console.WriteLine("Id: {0}, First Name: {1}, Last Name: {2}", emp.id, emp.firstName, emp.lastName);
+            }
+            Console.ReadLine();
+
+
+
+
+
+
+
+
+
             Console.ReadLine();
         }
     }
