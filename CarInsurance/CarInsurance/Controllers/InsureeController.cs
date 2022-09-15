@@ -58,7 +58,7 @@ namespace CarInsurance.Controllers
             {
                 table.Quote += 100;
             }
-            else if ((DateTime.Now.Year - table.DateOfBirth.Year) < 25 && (DateTime.Now.Year - table.DateOfBirth.Year) > 18)
+            else if ((DateTime.Now.Year - table.DateOfBirth.Year) <= 25 && (DateTime.Now.Year - table.DateOfBirth.Year) >= 19)
             {
                 table.Quote += 50;
             }
