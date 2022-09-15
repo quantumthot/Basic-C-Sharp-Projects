@@ -8,4 +8,6 @@
 -Student Daily Report
 
 <h2>Car Insurance</h2>
-<p>This project calculates car insurance from user input</p>
+<p>This project is an MVC web application that mimics a car insurance website.<br>
+It takes user input on policy information and calculates a quote based on busniess logic.<br>
+There is also an admin page that allows staff to view all of the quotes taht have been issued.</p>
